@@ -16,6 +16,7 @@ build/
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
+banco de dados no heroku.txt
 
 ### IntelliJ IDEA ###
 .idea
